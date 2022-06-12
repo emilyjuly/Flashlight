@@ -17,6 +17,7 @@ Ligada<br>
 https://drive.google.com/file/d/12geLwsV8fPwYg0mAj2i127sIPeVA1ayh/view?usp=sharing
 
 ### Conteúdo
+- Icons (https://drive.google.com/drive/folders/14uOMlIsZUfEtxwJTMDyDmf-vArcvxcTd?usp=sharing)
 - Libs react-native-shake e react-native-torch
 - StyleSheet
 - Hook useState
