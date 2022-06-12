@@ -13,3 +13,13 @@ Ligada<br>
 ![image](https://user-images.githubusercontent.com/87674883/173249954-f223c366-f8dd-401e-9357-d154b8865fbc.png)<br>
 
 
+### Link do APK
+https://drive.google.com/file/d/12geLwsV8fPwYg0mAj2i127sIPeVA1ayh/view?usp=sharing
+
+### Conteúdo
+- Libs react-native-shake e react-native-torch
+- StyleSheet
+- Hook useState
+- Hook useEffect
+- Add Listener to RNShake
+- LifeCicly ReactJS
